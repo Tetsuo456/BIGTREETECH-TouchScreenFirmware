@@ -13,7 +13,7 @@
     #define STRING_SCREEN_SETTINGS        "Pantalla"
     #define STRING_MACHINE_SETTINGS       "Màquina"
     #define STRING_FEATURE_SETTINGS       "Afegits"
-    #define STRING_SOUND                  "Sound"
+    #define STRING_SOUND                  "So"
     #define STRING_TOUCH_SOUND            "Touch sounds"
     #define STRING_TOAST_SOUND            "Toast Notifications"
     #define STRING_ALERT_SOUND            "Popups and Alerts"
